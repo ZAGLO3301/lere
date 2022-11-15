@@ -1,5 +1,5 @@
 # Пергаев Александр 051
-# SQL-команды
+> SQL-команды
 
     Show databases - просмотр данных
     Create database -создать базу данных
@@ -17,7 +17,8 @@
     SELECT * FROM users, grades WHERE users.user_id = grades.user_id (Сверчков Павел КР и ЛР 5 и 4)
     SELECT * FROM users WHERE fam = 'Пергаев' (Тут Александр Пергаев)
 
-# Шпора ЕГЭ
+> Шпора ЕГЭ
+
 $$BaCl_{2}+Na_{2}SO_{4}=BaSO_{4}\downarrow +2NaCl$$
 
 $$\bar E_1^{2}=\sqrt{\frac{Fa^{2-x}}{(x-1)*x}}+\alpha_1^{2}+{\beta}_{1}^{2}$$
