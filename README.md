@@ -1,26 +1,4 @@
 
-<style>
-.button_1670306534508 {
-    display: inline-block !important;
-    text-decoration: none !important;
-    background-color: #000000 !important;
-    color: #ab5858 !important;
-    border: 3px solid #b46363 !important;
-    border-radius: 5px !important;
-    font-size: 33px !important;
-    padding: 9px 50px !important; 
-    transition: all 0.6s ease !important;
-}
-.button_1670306534508:hover{
-    text-decoration: none !important; 
-    background-color: #190000 !important;
-    color: #ff0000 !important;
-    border-color: #f90000 !important;
-}
-</style>
-<a href="https://github.com/ZAGLO3301" class="button_1670306534508" target="_blank">
-  Моя страничка
-</a>
 
 # Пергаев Александр 051
 > SQL-команды
