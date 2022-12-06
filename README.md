@@ -1,10 +1,4 @@
-```mermaid
-flowchart LR
-    A[Hard] -->|Text| B(Round)
-    B --> C{Decision}
-    C -->|One| D[Result 1]
-    C -->|Two| E[Result 2]
-```
+
 # Пергаев Александр 051
 > SQL-команды
 
@@ -39,3 +33,11 @@ $$\ce{FeCO3 +2H2O ->[H2O] Fe(OH)2 + H2O + CO2}$$
 ![lagrida_latex_editor (7)](https://user-images.githubusercontent.com/114979532/200492668-06b2fd12-0568-442e-99fc-0d2ece7654e1.png)
 
 файл test chemystry.py - викторина
+
+```mermaid
+flowchart LR
+    A[10 класс] -->|Аттестация| B(11 класс)
+    B --> C{ЕГЭ}
+    C -->|99 баллов| D[Армия]
+    C -->|100 баллов| E[Университет]
+```
