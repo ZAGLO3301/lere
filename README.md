@@ -69,4 +69,4 @@ graph TD
     T --> U(Идём домой)
     T --> H(''Гранатовый браслет'')
 ```
-http://project6514436.tilda.ws ссылка
+http://project6514436.tilda.ws ссылка на сайт
