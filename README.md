@@ -69,7 +69,7 @@ graph TD
     T --> U(Идём домой)
     T --> H(''Гранатовый браслет'')
 ```
-http://project6514436.tilda.ws ссылка на сайт
+http://chemistrychinchanchonchin.tilda.ws ссылка на сайт
 
 ![mermaid-diagram-2022-12-20-132237](https://user-images.githubusercontent.com/114979532/208597907-a17e8460-90ce-4452-9fa4-711c7a34c4a0.png)
 
